@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1467828025 source:d:\itsc\finalp\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

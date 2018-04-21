@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459313206 source:d:\try\submitted file\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
